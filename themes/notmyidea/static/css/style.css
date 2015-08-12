@@ -1,18 +1,15 @@
 #splash {
   padding-top: 0px;
   position: relative;
-  padding-bottom: 150px;
-  .header,
-  .container {
+  padding-bottom: 150px; }
+  #splash .header,
+  #splash .container {
     position: relative;
-    z-index: 99;
-  }
-  .bg {
+    z-index: 99; }
+  #splash .bg {
     min-width: 100%;
     min-height: 100%;
     position: absolute;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url("../img/abstracttriangles2.jpg");
-  }
-}
+    background-image: url("../img/abstracttriangles2.jpg"); }
